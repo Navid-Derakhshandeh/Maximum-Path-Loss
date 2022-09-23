@@ -1,0 +1,7 @@
+D:\Test4\Maximum Path Loss\Maximum Path Loss\bin\Debug\Maximum Path Loss.exe.config
+D:\Test4\Maximum Path Loss\Maximum Path Loss\bin\Debug\Maximum Path Loss.exe
+D:\Test4\Maximum Path Loss\Maximum Path Loss\bin\Debug\Maximum Path Loss.pdb
+D:\Test4\Maximum Path Loss\Maximum Path Loss\obj\Debug\Maximum Path Loss.csprojAssemblyReference.cache
+D:\Test4\Maximum Path Loss\Maximum Path Loss\obj\Debug\Maximum Path Loss.csproj.CoreCompileInputs.cache
+D:\Test4\Maximum Path Loss\Maximum Path Loss\obj\Debug\Maximum Path Loss.exe
+D:\Test4\Maximum Path Loss\Maximum Path Loss\obj\Debug\Maximum Path Loss.pdb
